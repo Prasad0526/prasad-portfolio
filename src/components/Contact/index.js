@@ -103,7 +103,7 @@ const ContactInputMessage = styled.textarea`
   }
 `
 
-const snack=styled.input`margin-bottom:30px;`
+// const snack=styled.input`margin-bottom:30px;`
 
 const ContactButton = styled.input`
   width: 100%;
