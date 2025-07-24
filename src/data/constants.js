@@ -11,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Prasad0526/prasad-portfolio",
   resume:
-  "https://drive.google.com/file/d/1zFTmiwobBv54k0FoWT-m6gx6aKu24VGu/view?usp=sharing",
+  "https://drive.google.com/file/d/1Fx2W90poxAU2XaTkLyxkHjwK19GWvCpy/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/durga-prasad-koppisetti-586465228/",
   // insta: "https://www.instagram.com/seshu_______/",
   // facebook: "",
